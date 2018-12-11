@@ -1,0 +1,41 @@
+.left-side-bar{
+    width:200px;
+    float:left;
+    margin:10px 10px 10px 10px;
+}
+
+.main-bar{
+    margin:10px 10px 10px 240px;
+ 	width:70%;
+}
+
+.wide-main-bar{
+    margin:10px 10px 10px 230px;
+ 	width:83%;
+}
+
+.message-style{
+    margin:100px auto 10px auto;
+	width:50%;
+	text-align:center;
+}
+
+#localizationFrame{
+    margin:0px 10px 0px 20px;
+}
+
+.catalogWrapper{
+    width:70%;
+}
+
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+
+  > .col,
+  > [class*="col-"] {
+    outline: 1px solid rgb(0,0,0);
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
